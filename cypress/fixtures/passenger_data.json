@@ -7,7 +7,7 @@
   "DESTINATION_STATION": "MLDT",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "saikat-roy@ptyes",
+  "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Saikat Roy",
